@@ -1,5 +1,4 @@
-/* General Styling */
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -11,7 +10,7 @@ body {
     color: #333;
 }
 
-/* Navigation */
+
 header {
     background-color: #173b70;
     color: white;
@@ -37,7 +36,7 @@ nav a:hover {
     color: #ffcf5c;
 }
 
-/* Hero Section */
+
 .hero {
     text-align: center;
     padding: 50px 20px;
@@ -54,7 +53,7 @@ nav a:hover {
     font-size: 17px;
 }
 
-/* Booking Form */
+
 .booking {
     background-color: white;
     width: 90%;
@@ -104,7 +103,7 @@ nav a:hover {
     background-color: #e76f20;
 }
 
-/* Ticket Cards */
+
 .tickets {
     padding: 35px 5%;
 }
@@ -168,7 +167,7 @@ nav a:hover {
     background-color: #28589a;
 }
 
-/* Offers */
+
 .offers {
     text-align: center;
     padding: 35px 15px;
@@ -180,7 +179,7 @@ nav a:hover {
     margin-bottom: 12px;
 }
 
-/* Footer */
+
 footer {
     background-color: #102846;
     color: white;
@@ -189,7 +188,7 @@ footer {
     line-height: 1.8;
 }
 
-/* Mobile Responsive */
+
 @media (max-width: 600px) {
     header {
         flex-direction: column;

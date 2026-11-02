@@ -1,4 +1,4 @@
-/* General Styling */
+
 * {
     margin: 0;
     padding: 0;
@@ -11,7 +11,7 @@ body {
     color: #333;
 }
 
-/* Navigation Bar */
+
 header {
     background-color: #6c4cff;
     color: white;
@@ -46,7 +46,7 @@ nav a:hover {
     text-decoration: none;
 }
 
-/* Promotional Banner */
+
 .banner {
     text-align: center;
     padding: 60px 20px;
@@ -81,7 +81,7 @@ nav a:hover {
     background-color: #4d32c7;
 }
 
-/* Products */
+
 .products {
     padding: 40px 5%;
 }
@@ -164,7 +164,7 @@ nav a:hover {
     background-color: #4d32c7;
 }
 
-/* Special Offers */
+
 .offers {
     text-align: center;
     padding: 35px 20px;
@@ -176,7 +176,7 @@ nav a:hover {
     margin-bottom: 12px;
 }
 
-/* Footer */
+
 footer {
     background-color: #25213a;
     color: white;
@@ -185,7 +185,7 @@ footer {
     line-height: 1.8;
 }
 
-/* Mobile Responsive Design */
+
 @media (max-width: 600px) {
     header {
         flex-direction: column;

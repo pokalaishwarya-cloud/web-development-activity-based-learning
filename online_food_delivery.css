@@ -1,4 +1,3 @@
-/* Basic Styling */
 * {
     margin: 0;
     padding: 0;
@@ -11,7 +10,7 @@ body {
     color: #333;
 }
 
-/* Navigation */
+
 header {
     background-color: #ff5722;
     color: white;
@@ -46,7 +45,7 @@ nav a:hover {
     text-decoration: none;
 }
 
-/* Hero Section */
+
 .hero {
     min-height: 300px;
     padding: 60px 20px;
@@ -81,7 +80,7 @@ nav a:hover {
     background-color: #d84315;
 }
 
-/* Offers */
+
 .offers {
     text-align: center;
     background-color: #fff0e8;
@@ -93,7 +92,7 @@ nav a:hover {
     margin-bottom: 10px;
 }
 
-/* Food Menu */
+
 .menu {
     padding: 40px 5%;
 }
@@ -164,7 +163,7 @@ nav a:hover {
     background-color: #d84315;
 }
 
-/* About */
+
 .about {
     text-align: center;
     padding: 35px 15px;
@@ -176,7 +175,7 @@ nav a:hover {
     margin-bottom: 15px;
 }
 
-/* Footer */
+
 footer {
     background-color: #30251f;
     color: white;
@@ -185,7 +184,7 @@ footer {
     line-height: 1.8;
 }
 
-/* Mobile Responsive */
+
 @media (max-width: 600px) {
     header {
         flex-direction: column;
